@@ -125,7 +125,7 @@ If you want to contribute to this project, follow the steps below:
 1. Fork the repository
 2. To clone the repository:
 ```bash
-git clone https://github.com/username/health-buddy.git
+git clone https://github.com/Cloud-Community-Group/health-buddy.git
 ```
 replace username with your GitHub username and repository with the name of the repository you want to clone. Also, make sure you have the necessary permissions to push changes to the repository.
 
