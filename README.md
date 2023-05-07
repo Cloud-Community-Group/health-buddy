@@ -1,5 +1,5 @@
 # Health Buddy
-
+ 
 The Health Buddy project is a web-based healthcare solution that uses machine learning models to detect brain tumors, retina defects, and lung diseases. The project's user interface is designed with HTML, CSS, and JS and has a sleek and modern appearance that is easy to use and navigate. Moreover, the project's chatbot made with Dialogflow is designed to answer health-related questions.
 
   - [Live Preview](https://health-buddy-enjmthwghq-el.a.run.app/)
